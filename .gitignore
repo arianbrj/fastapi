@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+#notebook file for writing important points from the tutorial
+#it dosent need to be commited so...
+FastAPI_notebook.ipynb
