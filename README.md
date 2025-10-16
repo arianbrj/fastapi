@@ -1,2 +1,2 @@
 # fastapi
-learning from fastapi tutorial 
+learning fastapi from maktabkhooneh.org tutorial 
